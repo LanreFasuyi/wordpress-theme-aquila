@@ -6,18 +6,16 @@
  * 
  */
 
-
+get_header();
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wordpress Theme</title>
-</head>
-<body>
-    
-<h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, temporibus. Consequatur, nam sint numquam tenetur, praesentium illum dolore quaerat, optio odit labore hic inventore. Voluptas sequi totam voluptatibus quas sint.</h1>
-</body>
-</html>
+
+
+
+<div class="container">
+<h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta fugit nostrum ducimus sit modi nesciunt repellat hic ex eius iure aliquid vel voluptas qui architecto, est, cum eos iste quaerat!</h5>
+</div>
+
+
+<?php 
+get_footer();
